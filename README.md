@@ -1,6 +1,6 @@
-# Casper
+# Endlessness 
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+A beautiful theme for [Ghost](http://github.com/tryghost/ghost/).
 
 ## Copyright & License
 
